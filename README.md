@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 Hello, Sir/Ma'am!
+## 👋 Hello, Sir ERIC MAGTO!
 
 Thank you for checking my work. Before you read my code, here is a short, honest message about how this module went for me.
 
